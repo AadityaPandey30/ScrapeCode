@@ -11,3 +11,5 @@ Before getting started, ensure you have the following prerequisites installed:
 ## This code is designed such that it scrapes the response for that specific date given in the code.
 
 I have made a video on how to do the complete setup of Python Virtual Environment.
+
+This was basically a task given to me at Divine Connection to scrape code from a website based on results shown on different dates. My Selenium bot scraped the data and stored it into SQL database
